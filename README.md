@@ -1,2 +1,33 @@
 # package_management
-lerna + dumi来搭建包管理工具
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ npm i
+```
+
+Start the dev server,
+
+```bash
+$ npm start
+```
+
+Build documentation,
+
+```bash
+$ npm run docs:build
+```
+
+Run test,
+
+```bash
+$ npm test
+```
+
+Build library via `father-build`,
+
+```bash
+$ npm run build
+```
